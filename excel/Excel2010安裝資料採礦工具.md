@@ -17,24 +17,24 @@
 
     > 啟動安裝精靈
 
-    > ![install](../../master/images/excel1.PNG)
+    > ![install](../../master/excel/images/excel1.PNG)
     
     > 下一步-->接受授權合約
     
-    > ![LicenseAgreement](../../master/images/excel2.PNG)
+    > ![LicenseAgreement](../../master/excel/images/excel2.PNG)
     
     > 下一步-->特徵選取(記得安裝「適用於Excel的資料採礦用戶端」Excel工具列，才會出現資料採礦。
     
-    > ![LicenseAgreement](../../master/images/excel4.PNG) 
+    > ![LicenseAgreement](../../master/excel/images/excel4.PNG) 
     
     > 下一步-->安裝
     
-    > ![Install](../../master/images/excel5.PNG)
+    > ![Install](../../master/excel/images/excel5.PNG)
     
     > 下一步-->完成
     
-    > ![Finish](../../master/images/excel6.PNG)
+    > ![Finish](../../master/excel/images/excel6.PNG)
     
     > 開啟Excel(工具列出現資料採礦)
     
-    > ![Excel](../../master/images/excel7.PNG)
+    > ![Excel](../../master/excel/images/excel7.PNG)
