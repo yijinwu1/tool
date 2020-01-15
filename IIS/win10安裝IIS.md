@@ -1,40 +1,40 @@
 *   win10安裝 IIS
 
-    > 開始 → 
+    > 先開啟 IIS 功能
     
-    > Excel2010(x86或x64)。
+    > 開始 → 設定 
     
-    > 可對外網路。
-
-*   安裝SQL Server資料採礦增益集套件。<a href="https://www.microsoft.com/zh-tw/download/details.aspx?id=29061" target="_blank">(下載)</a>(請依Office2010版本，下載套件x86或x64。)
-    > 套件內容
+    > ![install](../../master/IIS/images/iis1.PNG)
     
-    >> 兩個 Microsoft Office Excel 2010 增益集 (資料表分析工具及資料採礦用戶端)。
+    > 點選「應用程式」
     
-    >> 一個 Microsoft Office Visio 2010 增益集 (資料採礦範本))。
+    > ![install](../../master/IIS/images/iis2.PNG)
     
-    > 
-
-    > 啟動安裝精靈
-
-    > ![install](../../master/excel/images/excel1.PNG)
+    > 點選「相關設定 程式和功能」
     
-    > 下一步-->接受授權合約
+    > ![install](../../master/IIS/images/iis3.PNG)
     
-    > ![LicenseAgreement](../../master/excel/images/excel2.PNG)
+    > 點選「開啟或關閉Windows功能」
     
-    > 下一步-->特徵選取(記得安裝「適用於Excel的資料採礦用戶端」Excel工具列，才會出現資料採礦。
+    > ![install](../../master/IIS/images/iis4.PNG)
     
-    > ![LicenseAgreement](../../master/excel/images/excel4.PNG) 
+    > 勾選「Internet Information Services」 → 「Web管理工具」、「World Wide Web服務」 → 點選「確定」
     
-    > 下一步-->安裝
+    > ![install](../../master/IIS/images/iis5.PNG)
     
-    > ![Install](../../master/excel/images/excel5.PNG)
+    > 安裝完成  → 點選「關閉」即可
     
-    > 下一步-->完成
+    > ![install](../../master/IIS/images/iis9.PNG)
     
-    > ![Finish](../../master/excel/images/excel6.PNG)
+    > 開啟IIS管理工具
+    > 開始 → Windows系統管理工具 → Internet Information Services(IIS)管理員
     
-    > 開啟Excel(工具列出現資料採礦)
+    > ![install](../../master/IIS/images/iis6.PNG)  
     
-    > ![Excel](../../master/excel/images/excel7.PNG)
+    > 管理介面
+    
+    > ![install](../../master/IIS/images/iis10.PNG) 
+    
+    > 測試 IIS，開啟任一瀏覽器，網址列輸入「localhost」，順利進入 Internet Information Services 畫面。表示IIS開啟成功
+    
+    > ![install](../../master/IIS/images/iis11.PNG)   
